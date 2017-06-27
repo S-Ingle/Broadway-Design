@@ -1,0 +1,110 @@
+*{
+  margin: 0;
+  padding: 0;
+  border:0;
+  box-sizing; border-box;
+}
+body{
+  background-color: #ede2d3;
+  font-family: Helvetica, sans-serif;
+}
+
+.container{
+  text-align: center;
+}
+
+.nav li{
+  list-style-type: none;
+  padding-top: 2em;
+}
+
+.nav li a{
+  display: block;
+  font-size: 18px;
+  color: white;
+}
+
+header{
+  padding: 2em;
+  background-image: url(../images/building.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+h1{
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+  padding: .5em 0;
+}
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+  padding: 2em 0 .5em 0;
+}
+
+h3{
+  font-size: 23px;
+  padding: 1em 0;
+}
+
+p{
+  padding-bottom: 2em;
+}
+
+img{
+  padding-top: 2em;
+}
+
+.divide{
+  background-image: url(../images/building.png);
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-size: cover;
+  padding: .65em;
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.contact li{
+  padding: .5em;
+}
+
+
+footer{
+  margin-top: .5em;
+  background-color: dimgray;
+  text-align: left;
+  padding: .5em 2em;
+}
+
+.copyright{
+  color: white;
+  font-size: 11px;
+}
+
+footer .nav li{
+  padding: 0;
+  display: inline-block;
+  margin-right: .5em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
